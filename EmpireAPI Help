@@ -1,0 +1,9 @@
+_G.Main = {}
+
+function _G.Main:New(Title)
+
+print(Title)
+
+end -- This is the Main Lib, you can either delete print and change it to something
+
+local Main = _G.Main:New("EmpireAPI has Loaded!") -- You can change the "EmpireAPI has loaded" to what ever you want
