@@ -10,3 +10,6 @@ Thats it.
 ```
 void local Main = _G.Main:New("EmpireAPI has Loaded!") -- Completely Customizable
 ```
+
+# Loadstring
+# loadstring(game:HttpGet('https://raw.githubusercontent.com/Empire4946/EmpireAPI/main/EmpireAPI'))()
